@@ -11,4 +11,4 @@
 
 4. Name two commands you'd use for Git.
    - `git commit`
-   - ?
+   - `git add`
