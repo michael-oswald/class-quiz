@@ -9,6 +9,7 @@
 3. What does Git mean?
    - Git is a technology used to track changes to files and lets many people to work on files at the same time and controls those changes in an organized fashion.
 
-4. Name two commands you'd use for Git.
+4. Name three commands you'd use for Git.
    - `git commit`
    - `git add`
+   - `git clone`
